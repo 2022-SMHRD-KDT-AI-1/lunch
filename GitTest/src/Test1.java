@@ -6,6 +6,10 @@ public class Test1 {
 		System.out.println("첫번째 커밋 ");
 		
 		System.out.println("두번째 커밋");
+		
+		System.out.println("실습합시다람쥐");
+		
+		System.out.println("외않되...?");
 	}
 
 }
