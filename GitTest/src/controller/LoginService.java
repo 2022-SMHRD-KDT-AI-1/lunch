@@ -24,7 +24,7 @@ public class LoginService extends HttpServlet {
 		String email = request.getParameter("email");
 		String pw = request.getParameter("pw");
 		
-		System.out.println("email"+email);
+		System.out.println("email"+email);//asd
 		System.out.println("pw"+pw);
 		
 		//longin메소드가 있는 Dao 호출
